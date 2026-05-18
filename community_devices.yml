@@ -1,5 +1,5 @@
 xiaomi_merlin:
-  type: image
+  type: rootfs
   arch: arm64
   edition: [phosh, plamo_wf_experimental]
   variant: phone
