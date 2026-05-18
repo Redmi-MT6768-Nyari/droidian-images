@@ -1,7 +1,7 @@
 xiaomi_merlin:
   type: image
   arch: arm64
-  edition: plamo_wf_experimental
+  edition: [phosh, plamo_wf_experimental]
   variant: phone
   apilevel: 33
   use_internal_repository: false
