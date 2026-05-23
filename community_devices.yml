@@ -9,6 +9,3 @@ xiaomi_merlin:
   packages:
     - adaptation-xiaomi-merlin
     - adaptation-xiaomi-merlin-configs
-    - linux-bootimage-xiaomi-merlin
-    - linux-headers-xiaomi-merlin
-    - linux-image-xiaomi-merlin
